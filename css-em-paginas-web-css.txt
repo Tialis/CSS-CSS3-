@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.elemento-com-borda {
+	border: 3p solid #ffcc00;
+	padding: 10px;
+}
+.cascata{
+	background-color: grey;
+}
+
+#para2{
+	background-color: orange; /*Exemplo de comentário CSS*/
+}
